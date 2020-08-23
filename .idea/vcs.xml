@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Projects/p1-nbody-fall19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lecture_code/classcode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p0-person" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p2-markov-wordgram-fall19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p3-efficientmarkov-fall19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p4-dnalinked-fall19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p5-autocomplete-fall19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p6-percolation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/p7-huffman-fall19" vcs="Git" />
+  </component>
+</project>

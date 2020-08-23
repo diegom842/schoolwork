@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/p0-person/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/APT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lecture_code/classcode/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p3-efficientmarkov-fall19/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sample" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p5-autocomplete-fall19/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p6-percolation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/p7-huffman-fall19/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects" />
+      <excludeFolder url="file://$MODULE_DIR$/Projects/p1-nbody-fall19/src" />
+      <excludeFolder url="file://$MODULE_DIR$/p2-markov-wordgram-fall19" />
+      <excludeFolder url="file://$MODULE_DIR$/p2-markov-wordgram-fall19/src" />
+      <excludeFolder url="file://$MODULE_DIR$/p4-dnalinked-fall19/src" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="JUnit5.3">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9ee504c-7ef7-4ce9-b361-779aa9c53e66" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/p5-autocomplete-fall19/src/SlowBruteAutocomplete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/p1-nbody-fall19/analysis/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/p1-nbody-fall19/analysis/analysis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/p1-nbody-fall19/src/CelestialBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/p1-nbody-fall19/src/CelestialBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/p1-nbody-fall19/src/NBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/p1-nbody-fall19/src/NBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture_code/classcode/src/ArrayListUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/lecture_code/classcode/src/ArrayListUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2-markov-wordgram-fall19/analysis/analysis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/p2-markov-wordgram-fall19/analysis/analysis.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2-markov-wordgram-fall19/src/WordGramBenchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/p2-markov-wordgram-fall19/src/WordGramBenchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p3-efficientmarkov-fall19/src/BaseMarkov.java" beforeDir="false" afterPath="$PROJECT_DIR$/p3-efficientmarkov-fall19/src/BaseMarkov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p3-efficientmarkov-fall19/src/Benchmark.java" beforeDir="false" afterPath="$PROJECT_DIR$/p3-efficientmarkov-fall19/src/Benchmark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5-autocomplete-fall19/src/BenchMarkForAutocomplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/p5-autocomplete-fall19/src/BenchMarkForAutocomplete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p5-autocomplete-fall19/src/HashListAutocomplete.java" beforeDir="false" afterPath="$PROJECT_DIR$/p5-autocomplete-fall19/src/HashListAutocomplete.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WordGram</find>
+      <find>shift</find>
+      <find>13</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projects/p1-nbody-fall19" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W2RkIkHVyM7IuK4t7h5sxxWw8W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/p2-markov-wordgram-fall19/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BasicTester">
+    <configuration name="BasicTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicTester" />
+      <module name="CS201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="CS201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffMainDecompress" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HuffMainDecompress" />
+      <module name="CS201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercolationStats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PercolationStats" />
+      <module name="CS201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomSurveyGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomSurveyGenerator" />
+      <module name="CS201" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicTester" />
+        <item itemvalue="Application.RandomSurveyGenerator" />
+        <item itemvalue="Application.HuffMainDecompress" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.PercolationStats" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9ee504c-7ef7-4ce9-b361-779aa9c53e66" name="Default Changelist" comment="" />
+      <created>1567463604483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567463604483</updated>
+      <workItem from="1567463608275" duration="7648000" />
+      <workItem from="1567825169152" duration="65000" />
+      <workItem from="1568226605910" duration="1198000" />
+      <workItem from="1568765780105" duration="13295000" />
+      <workItem from="1569006805674" duration="23349000" />
+      <workItem from="1569341514835" duration="14587000" />
+      <workItem from="1569545101060" duration="11203000" />
+      <workItem from="1569861315896" duration="18829000" />
+      <workItem from="1571202093997" duration="1195000" />
+      <workItem from="1571270895793" duration="1790000" />
+      <workItem from="1571697738756" duration="5847000" />
+      <workItem from="1571780333154" duration="4964000" />
+      <workItem from="1572030237905" duration="9241000" />
+      <workItem from="1572121096067" duration="17725000" />
+      <workItem from="1572310749736" duration="1768000" />
+      <workItem from="1572465051785" duration="10330000" />
+      <workItem from="1572633874489" duration="10936000" />
+      <workItem from="1573244585014" duration="3021000" />
+      <workItem from="1573268386966" duration="2446000" />
+      <workItem from="1573524190300" duration="2299000" />
+      <workItem from="1573669385875" duration="721000" />
+      <workItem from="1573689681908" duration="150000" />
+      <workItem from="1573694692889" duration="5761000" />
+      <workItem from="1573937823438" duration="1719000" />
+      <workItem from="1574033501239" duration="599000" />
+      <workItem from="1574127912839" duration="8657000" />
+      <workItem from="1574214145165" duration="20829000" />
+      <workItem from="1574281392331" duration="263000" />
+      <workItem from="1574281789699" duration="13834000" />
+      <workItem from="1574465483042" duration="8969000" />
+      <workItem from="1574804557611" duration="6351000" />
+      <workItem from="1575224541936" duration="2349000" />
+      <workItem from="1575238862300" duration="598000" />
+      <workItem from="1575249508525" duration="945000" />
+      <workItem from="1575260182753" duration="1121000" />
+      <workItem from="1575332438873" duration="22496000" />
+      <workItem from="1575514515923" duration="2423000" />
+      <workItem from="1575649949189" duration="1016000" />
+      <workItem from="1575660083166" duration="6400000" />
+      <workItem from="1575753361168" duration="23220000" />
+      <workItem from="1576011743519" duration="2077000" />
+      <workItem from="1578343539987" duration="631000" />
+      <workItem from="1578344211680" duration="1205000" />
+      <workItem from="1578345853690" duration="220000" />
+      <workItem from="1578346088031" duration="151000" />
+      <workItem from="1578346253797" duration="50000" />
+      <workItem from="1578346320072" duration="669000" />
+      <workItem from="1580445133611" duration="1084000" />
+      <workItem from="1582886326506" duration="4568000" />
+      <workItem from="1585874018848" duration="1000" />
+      <workItem from="1587587566042" duration="1147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDFSPercolation - 2019.12.03 at 20h 28m 33s.xml">
+      <configuration name="TestDFSPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDFSPercolation - 2019.12.04 at 02h 10m 58s.xml">
+      <configuration name="TestDFSPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 28m 05s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 44m 47s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 49m 44s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 51m 10s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 52m 11s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 52m 55s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 19h 53m 32s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestUFPercolation - 2019.12.04 at 20h 30m 28s.xml">
+      <configuration name="TestUFPercolation" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="639" key="GridCell.Tab.0.bottom" timestamp="1587589019854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="639" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587589019854" />
+    <state width="1877" height="639" key="GridCell.Tab.0.center" timestamp="1587589019853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="639" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587589019853" />
+    <state width="1877" height="639" key="GridCell.Tab.0.left" timestamp="1587589019853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="639" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587589019853" />
+    <state width="1877" height="639" key="GridCell.Tab.0.right" timestamp="1587589019853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="639" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587589019853" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CS201</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Java 12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
